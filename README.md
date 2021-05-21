@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Me
 
-<!--
-**0n1shi/0n1shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@0n1shi (Onishi)
 
-Here are some ideas to get you started:
+A software developer and also a university student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0n1shi&count_private=true&show_icons=true)
+
+### 🌏 SNS
+
+- [Twitter](https://twitter.com/0n1shi)
+- [Blog](https://k-onishi.hatenablog.jp/)
+- [Slides](https://speakerdeck.com/kazuki_onishi)
+
+### 🏢 Organization
+
+SAKURA Internet Inc.
