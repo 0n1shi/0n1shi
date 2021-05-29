@@ -14,4 +14,4 @@ A software developer and also a university student.
 
 ### 🏢 Organization
 
-SAKURA Internet Inc.
+[SAKURA Internet Inc.](https://www.sakura.ad.jp/)
