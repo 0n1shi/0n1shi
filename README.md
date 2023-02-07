@@ -6,8 +6,6 @@ A software developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0n1shi&count_private=true&show_icons=true)
 
-<script src="https://tryhackme.com/badge/1204939"></script>
-
 ### 🌏 SNS
 
 - [Twitter](https://twitter.com/0n1shi)
