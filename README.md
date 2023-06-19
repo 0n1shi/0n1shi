@@ -13,4 +13,4 @@ A software developer.
 ### 🏢 Organization
 
 - [SAKURA Internet Inc.](https://www.sakura.ad.jp/)(2017/04 ~ 2021/12)
-- [Ierae Security Inc.](https://ierae.co.jp/)(2022/01 ~)
+- [GMO Cybersecurity by Ierae, Inc.](https://gmo-cybersecurity.com/)(2022/01 ~)
